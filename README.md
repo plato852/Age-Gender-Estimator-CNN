@@ -34,5 +34,3 @@ The final models demonstrate that meaningful patterns can be learned from the da
 - **Language:** Python  
 - **Core Libraries:** NumPy, Pandas, Scikit-learn  
 - **Environment:** Jupyter Notebook  
-
-## Repository Structure
